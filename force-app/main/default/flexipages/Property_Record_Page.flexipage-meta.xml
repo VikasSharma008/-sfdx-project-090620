@@ -7,7 +7,7 @@
                 <value>false</value>
             </componentInstanceProperties>
             <componentName>force:highlightsPanel</componentName>
-        </itemInstances></componentInstance>
+        </componentInstance>  </itemInstances>
         <mode>Replace</mode>
         <name>header</name>
         <type>Region</type>
@@ -15,7 +15,7 @@
     <flexiPageRegions>
         <itemInstances><componentInstance>
             <componentName>force:relatedListContainer</componentName>
-        </itemInstances></componentInstance>
+        </componentInstance>  </itemInstances>
         <mode>Replace</mode>
         <name>relatedTabContent</name>
         <type>Facet</type>
@@ -23,7 +23,7 @@
     <flexiPageRegions>
         <itemInstances><componentInstance>
             <componentName>force:detailPanel</componentName>
-        </itemInstances></componentInstance>
+        </componentInstance>  </itemInstances>
         <mode>Replace</mode>
         <name>detailTabContent</name>
         <type>Facet</type>
@@ -39,7 +39,7 @@
                 <value>Standard.Tab.relatedLists</value>
             </componentInstanceProperties>
             <componentName>flexipage:tab</componentName>
-        </itemInstances></componentInstance>
+        </componentInstance>  </itemInstances>
         <itemInstances><componentInstance>
             <componentInstanceProperties>
                 <name>active</name>
@@ -54,7 +54,7 @@
                 <value>Standard.Tab.detail</value>
             </componentInstanceProperties>
             <componentName>flexipage:tab</componentName>
-        </itemInstances></componentInstance>
+        </componentInstance>  </itemInstances>
         <mode>Replace</mode>
         <name>maintabs</name>
         <type>Facet</type>
@@ -66,7 +66,7 @@
                 <value>maintabs</value>
             </componentInstanceProperties>
             <componentName>flexipage:tabset</componentName>
-        </itemInstances></componentInstance>
+        </componentInstance>  </itemInstances>
         <mode>Replace</mode>
         <name>main</name>
         <type>Region</type>
@@ -74,7 +74,7 @@
     <flexiPageRegions>
         <itemInstances><componentInstance>
             <componentName>runtime_sales_activities:activityPanel</componentName>
-        </itemInstances></componentInstance>
+        </componentInstance>  </itemInstances>
         <mode>Replace</mode>
         <name>activityTabContent</name>
         <type>Facet</type>
@@ -82,7 +82,7 @@
     <flexiPageRegions>
         <itemInstances><componentInstance>
             <componentName>forceChatter:recordFeedContainer</componentName>
-        </itemInstances></componentInstance>
+        </componentInstance>  </itemInstances>
         <mode>Replace</mode>
         <name>feedTabContent</name>
         <type>Facet</type>
@@ -102,7 +102,7 @@
                 <value>Standard.Tab.activity</value>
             </componentInstanceProperties>
             <componentName>flexipage:tab</componentName>
-        </itemInstances></componentInstance>
+        </componentInstance>  </itemInstances>
         <itemInstances><componentInstance>
             <componentInstanceProperties>
                 <name>body</name>
@@ -113,7 +113,7 @@
                 <value>Standard.Tab.collaborate</value>
             </componentInstanceProperties>
             <componentName>flexipage:tab</componentName>
-        </itemInstances></componentInstance>
+        </componentInstance>  </itemInstances>
         <mode>Replace</mode>
         <name>sidebartabs</name>
         <type>Facet</type>
@@ -125,7 +125,7 @@
                 <value>sidebartabs</value>
             </componentInstanceProperties>
             <componentName>flexipage:tabset</componentName>
-        </itemInstances></componentInstance>
+        </componentInstance>  </itemInstances>
         <mode>Replace</mode>
         <name>sidebar</name>
         <type>Region</type>
